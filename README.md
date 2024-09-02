@@ -16,6 +16,6 @@
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [seungsub5427@gmail.com](seungsub5427@gmail.com)
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 - GitHub: [RedCrowns](https://github.com/RedCrowns)
