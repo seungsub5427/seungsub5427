@@ -1,7 +1,12 @@
 # 안녕하세요 👋
 ## 이승섭입니다.
 
+## 📊 GitHub Stats
+
 ![seungsub5427's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungsub5427&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsub5427&layout=compact&theme=radical)
+
 
 <!--
 **seungsub5427/seungsub5427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
