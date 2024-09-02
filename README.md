@@ -17,5 +17,12 @@
 ## 📫 How to reach me
 
 - Email: [seungsub5427@gmail.com](seungsub5427@gmail.com)
-- LinkedIn: [seungsub]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/%EC%8A%B9%EC%84%AD-%EC%9D%B4-845846326/))
 - GitHub: [seungsub5427](https://github.com/seungsub5427)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jyp8282?pet-id=1" width="1000" height="120"/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jyp8282"/>
+</a>
