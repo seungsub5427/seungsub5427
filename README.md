@@ -13,3 +13,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black" />&nbsp
 </div>
+
+## 📫 How to reach me
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [RedCrowns](https://github.com/RedCrowns)
