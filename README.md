@@ -17,5 +17,5 @@
 ## 📫 How to reach me
 
 - Email: [seungsub5427@gmail.com](seungsub5427@gmail.com)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [RedCrowns](https://github.com/RedCrowns)
+- LinkedIn: [이승섭]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/%EC%8A%B9%EC%84%AD-%EC%9D%B4-845846326/))
+- GitHub: [seungsub5427](https://github.com/seungsub5427)
